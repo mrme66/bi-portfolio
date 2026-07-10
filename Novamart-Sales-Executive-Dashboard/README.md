@@ -66,7 +66,7 @@ The dataset represents a fictional retail company, **Novamart**, and was generat
 - Orders
 - Sales
 
-The dataset contains approximately **5,000 sales transactions** spanning **January 2023 to March 2025**.
+The dataset contains approximately **5,000 retail sales transactions** across a three-year period from **January 2023 to December 2025**, providing sufficient historical data for trend analysis, customer behaviour analysis, and executive reporting.
 
 ---
 
