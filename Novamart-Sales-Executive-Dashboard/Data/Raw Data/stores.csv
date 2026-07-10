@@ -1,0 +1,11 @@
+StoreID,StoreName,City,State,Region,OpeningDate,ManagerEmployeeID
+1,Lagos Store,Lagos,Lagos,South West,2023-01-03,
+2,Ibadan Store,Ibadan,Oyo,South West,2016-11-10,
+3,Akure Store,Akure,Ondo,South West,2023-03-15,
+4,Abuja Store,Abuja,FCT,North Central,2023-07-06,
+5,Benin Store,Benin,Edo,South South,2021-11-05,
+6,Port Harcourt Store,Port Harcourt,Rivers,South South,2022-11-04,
+7,Enugu Store,Enugu,Enugu,South East,2022-03-25,
+8,Owerri Store,Owerri,Imo,South East,2018-03-25,
+9,Kano Store,Kano,Kano,North West,2018-04-02,
+10,Kaduna Store,Kaduna,Kaduna,North West,2022-01-27,

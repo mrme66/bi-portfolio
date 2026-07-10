@@ -1,0 +1,501 @@
+CustomerID,FirstName,LastName,Gender,Email,PhoneNumber,City,State,RegistrationDate,LoyaltyLevel,IsSubscribed
+1,Mary,Ojo,Female,mary0@mail.com,08042303020,Ibadan,Rivers,2022-06-17,Bronze,False
+2,Sarah,Adebayo,Female,sarah1@mail.com,08013169960,Lagos,Oyo,2022-05-09,Silver,True
+3,David,Adebayo,Female,david2@mail.com,08040257924,Lagos,Oyo,2024-10-21,Platinum,False
+4,James,Adebayo,Male,james3@mail.com,08013885251,Ibadan,Oyo,2023-04-29,Bronze,False
+5,Mary,Bello,Female,mary4@mail.com,08060977915,Abuja,FCT,2023-07-18,Platinum,False
+6,James,Adebayo,Male,james5@mail.com,08095357575,Lagos,Rivers,2021-01-28,Silver,True
+7,John,Adebayo,Male,john6@mail.com,08081064603,Abuja,FCT,2022-12-09,Bronze,False
+8,John,Okafor,Female,john7@mail.com,08049229987,Lagos,Rivers,2020-08-30,Bronze,True
+9,James,Okafor,Male,james8@mail.com,08038888064,Lagos,Oyo,2022-02-03,Bronze,False
+10,John,Ojo,Female,john9@mail.com,08097441727,Ibadan,FCT,2020-08-11,Silver,False
+11,David,Adebayo,Male,david10@mail.com,08078721756,Port Harcourt,Oyo,2023-06-06,Platinum,True
+12,John,Okafor,Female,john11@mail.com,08039969960,Port Harcourt,Rivers,2023-04-20,Bronze,False
+13,Aisha,Okafor,Female,aisha12@mail.com,08040628986,Ibadan,Rivers,2023-08-16,Platinum,False
+14,Mary,Bello,Male,mary13@mail.com,08078813181,Ibadan,FCT,2021-02-05,Silver,True
+15,David,Bello,Female,david14@mail.com,08079694364,Ibadan,Lagos,2020-03-14,Silver,True
+16,James,Adebayo,Female,james15@mail.com,08069379834,Abuja,Oyo,2021-11-17,Bronze,False
+17,James,Ojo,Male,james16@mail.com,08070965038,Lagos,FCT,2020-05-12,Gold,True
+18,Aisha,Okafor,Female,aisha17@mail.com,08064837101,Lagos,Oyo,2023-04-07,Bronze,False
+19,David,Okafor,Male,david18@mail.com,08062373676,Abuja,Oyo,2024-09-21,Bronze,True
+20,Aisha,Adebayo,Female,aisha19@mail.com,08061524486,Lagos,FCT,2020-03-20,Silver,False
+21,Mary,Okafor,Male,mary20@mail.com,08039767490,Port Harcourt,Lagos,2021-11-06,Silver,True
+22,Aisha,Bello,Female,aisha21@mail.com,08061078409,Lagos,Lagos,2024-12-08,Gold,True
+23,David,Bello,Male,david22@mail.com,08091255720,Ibadan,Lagos,2022-08-25,Platinum,False
+24,David,Okafor,Female,david23@mail.com,08026770113,Ibadan,FCT,2022-09-04,Platinum,False
+25,James,Bello,Female,james24@mail.com,08079230270,Ibadan,Lagos,2024-08-01,Bronze,False
+26,Mary,Bello,Female,mary25@mail.com,08077549973,Abuja,FCT,2021-10-22,Gold,False
+27,Mary,Ojo,Female,mary26@mail.com,08092472873,Port Harcourt,Oyo,2022-06-25,Bronze,True
+28,David,Okafor,Female,david27@mail.com,08024322523,Port Harcourt,Oyo,2022-12-20,Platinum,False
+29,Mary,Eze,Male,mary28@mail.com,08019282422,Ibadan,Lagos,2023-02-14,Bronze,False
+30,Aisha,Ojo,Female,aisha29@mail.com,08097229834,Port Harcourt,Oyo,2020-05-07,Platinum,False
+31,Mary,Ojo,Male,mary30@mail.com,08086623698,Ibadan,Oyo,2020-12-27,Gold,True
+32,David,Eze,Male,david31@mail.com,08064446755,Lagos,Oyo,2024-08-16,Platinum,False
+33,James,Ojo,Female,james32@mail.com,08070010183,Port Harcourt,Rivers,2024-10-27,Gold,False
+34,Mary,Bello,Male,mary33@mail.com,08058915296,Ibadan,Oyo,2023-04-22,Gold,True
+35,John,Ojo,Female,john34@mail.com,08053355143,Ibadan,Lagos,2024-09-21,Gold,True
+36,Mary,Eze,Male,mary35@mail.com,08067120262,Ibadan,Oyo,2021-09-12,Bronze,False
+37,Sarah,Bello,Female,sarah36@mail.com,08049065681,Lagos,Lagos,2020-12-31,Silver,False
+38,John,Bello,Male,john37@mail.com,08024031997,Port Harcourt,FCT,2024-04-13,Platinum,True
+39,Aisha,Okafor,Male,aisha38@mail.com,08030851493,Port Harcourt,Oyo,2023-01-02,Silver,True
+40,David,Okafor,Male,david39@mail.com,08058608050,Abuja,Rivers,2020-11-16,Gold,True
+41,Aisha,Bello,Male,aisha40@mail.com,08058770590,Lagos,FCT,2023-04-14,Gold,True
+42,James,Bello,Male,james41@mail.com,08089912182,Lagos,Rivers,2021-09-27,Silver,True
+43,Mary,Adebayo,Male,mary42@mail.com,08092894062,Lagos,Lagos,2020-12-03,Gold,True
+44,Sarah,Eze,Male,sarah43@mail.com,08077516551,Ibadan,Rivers,2023-09-16,Silver,False
+45,Sarah,Okafor,Male,sarah44@mail.com,08090077582,Abuja,Oyo,2024-09-15,Bronze,False
+46,David,Eze,Male,david45@mail.com,08090697994,Abuja,Oyo,2022-09-13,Bronze,True
+47,James,Bello,Male,james46@mail.com,08035913782,Lagos,FCT,2024-12-19,Gold,True
+48,Aisha,Adebayo,Male,aisha47@mail.com,08048427081,Lagos,Lagos,2022-11-22,Silver,False
+49,John,Okafor,Female,john48@mail.com,08092154463,Lagos,FCT,2020-05-06,Bronze,True
+50,David,Eze,Male,david49@mail.com,08078525659,Abuja,Oyo,2023-11-18,Platinum,False
+51,Aisha,Eze,Female,aisha50@mail.com,08051688572,Lagos,Lagos,2021-05-04,Gold,True
+52,David,Ojo,Male,david51@mail.com,08092268641,Abuja,FCT,2020-04-29,Bronze,False
+53,James,Okafor,Female,james52@mail.com,08016307101,Lagos,Rivers,2023-11-19,Gold,False
+54,John,Bello,Male,john53@mail.com,08023324636,Lagos,Lagos,2020-11-08,Silver,True
+55,David,Okafor,Male,david54@mail.com,08013904906,Ibadan,Rivers,2024-09-03,Platinum,False
+56,James,Eze,Male,james55@mail.com,08018798599,Ibadan,FCT,2023-03-27,Platinum,False
+57,Aisha,Eze,Female,aisha56@mail.com,08046052122,Lagos,Rivers,2022-11-28,Gold,True
+58,David,Ojo,Male,david57@mail.com,08084400415,Port Harcourt,FCT,2021-10-11,Bronze,True
+59,Aisha,Eze,Male,aisha58@mail.com,08095736426,Port Harcourt,Rivers,2022-12-05,Silver,True
+60,Sarah,Ojo,Female,sarah59@mail.com,08086178106,Lagos,Lagos,2024-06-28,Silver,True
+61,Aisha,Adebayo,Male,aisha60@mail.com,08075160991,Port Harcourt,FCT,2020-06-19,Silver,False
+62,John,Bello,Female,john61@mail.com,08033201164,Ibadan,Lagos,2021-10-15,Silver,True
+63,Aisha,Eze,Female,aisha62@mail.com,08060325942,Lagos,Oyo,2020-02-25,Bronze,True
+64,James,Bello,Male,james63@mail.com,08036572048,Abuja,Oyo,2021-11-05,Silver,False
+65,Aisha,Okafor,Female,aisha64@mail.com,08041723721,Port Harcourt,Oyo,2023-06-16,Platinum,False
+66,David,Bello,Male,david65@mail.com,08021718927,Lagos,Lagos,2023-06-14,Platinum,False
+67,Mary,Bello,Male,mary66@mail.com,08032018213,Port Harcourt,FCT,2023-11-11,Silver,False
+68,Sarah,Eze,Female,sarah67@mail.com,08034284214,Ibadan,Rivers,2021-07-02,Platinum,True
+69,John,Okafor,Male,john68@mail.com,08034622701,Ibadan,Rivers,2023-09-16,Platinum,True
+70,James,Okafor,Female,james69@mail.com,08046945988,Ibadan,Lagos,2020-05-14,Platinum,True
+71,Aisha,Bello,Female,aisha70@mail.com,08093705916,Abuja,Rivers,2022-05-02,Bronze,False
+72,Mary,Ojo,Male,mary71@mail.com,08037396700,Lagos,Oyo,2024-05-21,Gold,True
+73,Aisha,Ojo,Male,aisha72@mail.com,08050343927,Port Harcourt,Oyo,2020-01-27,Silver,False
+74,Mary,Eze,Female,mary73@mail.com,08091603850,Lagos,Lagos,2024-09-06,Bronze,False
+75,David,Ojo,Female,david74@mail.com,08033762383,Port Harcourt,Lagos,2021-04-06,Platinum,True
+76,Mary,Bello,Female,mary75@mail.com,08067424976,Abuja,Lagos,2021-06-23,Bronze,False
+77,James,Okafor,Male,james76@mail.com,08047097984,Abuja,Lagos,2022-06-05,Bronze,True
+78,Aisha,Okafor,Male,aisha77@mail.com,08017663511,Ibadan,Rivers,2020-12-13,Bronze,True
+79,David,Ojo,Male,david78@mail.com,08077097122,Port Harcourt,Lagos,2024-09-15,Silver,True
+80,Mary,Okafor,Female,mary79@mail.com,08053905332,Abuja,Lagos,2024-12-19,Bronze,False
+81,Aisha,Adebayo,Male,aisha80@mail.com,08019292152,Abuja,Oyo,2022-01-10,Bronze,True
+82,James,Eze,Female,james81@mail.com,08049825854,Abuja,Lagos,2023-10-28,Platinum,True
+83,Mary,Adebayo,Female,mary82@mail.com,08096394773,Abuja,FCT,2020-04-07,Silver,True
+84,Mary,Adebayo,Male,mary83@mail.com,08093895720,Port Harcourt,Rivers,2024-04-29,Bronze,False
+85,John,Eze,Female,john84@mail.com,08016654315,Abuja,Oyo,2022-12-06,Platinum,True
+86,Mary,Ojo,Female,mary85@mail.com,08036749425,Abuja,FCT,2020-11-28,Platinum,False
+87,Mary,Eze,Female,mary86@mail.com,08065715381,Port Harcourt,Rivers,2021-08-15,Bronze,False
+88,John,Ojo,Female,john87@mail.com,08065634598,Ibadan,Rivers,2021-02-24,Platinum,True
+89,John,Adebayo,Female,john88@mail.com,08056211193,Lagos,Oyo,2022-06-06,Bronze,False
+90,James,Bello,Female,james89@mail.com,08027631585,Port Harcourt,Rivers,2024-09-12,Platinum,True
+91,John,Eze,Female,john90@mail.com,08019557622,Port Harcourt,Rivers,2021-08-12,Platinum,False
+92,Sarah,Bello,Female,sarah91@mail.com,08054599126,Lagos,Rivers,2024-11-23,Gold,True
+93,Sarah,Ojo,Male,sarah92@mail.com,08010509642,Ibadan,Rivers,2023-05-07,Platinum,False
+94,Sarah,Okafor,Female,sarah93@mail.com,08077419467,Lagos,Lagos,2023-04-24,Bronze,True
+95,Sarah,Bello,Female,sarah94@mail.com,08046690755,Port Harcourt,Lagos,2021-09-23,Silver,False
+96,David,Ojo,Female,david95@mail.com,08066456181,Abuja,Lagos,2021-04-03,Bronze,True
+97,Sarah,Ojo,Male,sarah96@mail.com,08029962753,Abuja,Lagos,2021-04-23,Silver,True
+98,James,Adebayo,Male,james97@mail.com,08070539047,Abuja,Rivers,2020-07-12,Gold,False
+99,David,Ojo,Female,david98@mail.com,08052038196,Abuja,Rivers,2021-08-18,Platinum,True
+100,Sarah,Bello,Female,sarah99@mail.com,08068294738,Abuja,Oyo,2023-09-14,Platinum,False
+101,John,Bello,Male,john100@mail.com,08071415731,Abuja,Oyo,2022-02-25,Gold,False
+102,John,Eze,Male,john101@mail.com,08025705468,Abuja,FCT,2021-10-01,Platinum,False
+103,Aisha,Adebayo,Male,aisha102@mail.com,08076116846,Lagos,FCT,2020-03-19,Platinum,True
+104,Aisha,Okafor,Female,aisha103@mail.com,08012370378,Ibadan,Oyo,2020-12-26,Gold,False
+105,Sarah,Eze,Male,sarah104@mail.com,08098051573,Port Harcourt,Lagos,2022-08-15,Silver,True
+106,Aisha,Bello,Female,aisha105@mail.com,08058950173,Lagos,Rivers,2020-12-26,Bronze,True
+107,David,Bello,Female,david106@mail.com,08086641532,Ibadan,Rivers,2020-04-16,Silver,False
+108,Sarah,Okafor,Male,sarah107@mail.com,08063099220,Port Harcourt,Lagos,2024-09-07,Bronze,False
+109,Mary,Okafor,Female,mary108@mail.com,08045163990,Ibadan,Rivers,2021-11-03,Bronze,False
+110,Mary,Ojo,Male,mary109@mail.com,08025894120,Abuja,Rivers,2024-11-18,Silver,False
+111,James,Okafor,Female,james110@mail.com,08046680772,Port Harcourt,Lagos,2021-01-30,Platinum,False
+112,David,Ojo,Female,david111@mail.com,08086431154,Port Harcourt,Rivers,2020-11-25,Gold,False
+113,John,Bello,Male,john112@mail.com,08041429696,Port Harcourt,Lagos,2024-03-18,Silver,True
+114,Sarah,Ojo,Female,sarah113@mail.com,08034085210,Port Harcourt,Oyo,2020-10-09,Platinum,True
+115,David,Eze,Female,david114@mail.com,08012610873,Abuja,Rivers,2021-11-09,Gold,False
+116,James,Okafor,Male,james115@mail.com,08019501283,Ibadan,FCT,2020-05-21,Bronze,False
+117,David,Adebayo,Female,david116@mail.com,08091150676,Port Harcourt,Oyo,2022-07-20,Silver,True
+118,John,Bello,Male,john117@mail.com,08088074145,Abuja,Lagos,2024-09-26,Bronze,False
+119,Aisha,Adebayo,Male,aisha118@mail.com,08013039666,Port Harcourt,FCT,2022-06-17,Bronze,True
+120,Mary,Okafor,Male,mary119@mail.com,08072512045,Ibadan,FCT,2021-07-04,Gold,True
+121,John,Okafor,Female,john120@mail.com,08032642632,Lagos,Oyo,2021-11-02,Platinum,True
+122,James,Adebayo,Female,james121@mail.com,08060691647,Lagos,Rivers,2022-03-07,Gold,False
+123,John,Eze,Female,john122@mail.com,08096665644,Ibadan,Rivers,2024-02-09,Gold,False
+124,Mary,Adebayo,Male,mary123@mail.com,08069858469,Lagos,FCT,2020-05-04,Gold,False
+125,Sarah,Bello,Female,sarah124@mail.com,08098286755,Ibadan,Rivers,2024-06-11,Gold,False
+126,Sarah,Adebayo,Male,sarah125@mail.com,08070269422,Lagos,Lagos,2023-07-02,Platinum,True
+127,David,Ojo,Female,david126@mail.com,08099682082,Lagos,FCT,2023-01-05,Gold,False
+128,John,Bello,Male,john127@mail.com,08030783100,Abuja,Oyo,2023-10-19,Gold,False
+129,Mary,Bello,Male,mary128@mail.com,08071858246,Port Harcourt,Lagos,2024-09-18,Bronze,False
+130,David,Ojo,Female,david129@mail.com,08024285577,Lagos,Lagos,2020-02-16,Platinum,False
+131,James,Ojo,Male,james130@mail.com,08018359372,Port Harcourt,FCT,2022-07-11,Gold,True
+132,Aisha,Adebayo,Female,aisha131@mail.com,08035587976,Port Harcourt,FCT,2024-09-07,Bronze,True
+133,John,Bello,Male,john132@mail.com,08093034153,Lagos,FCT,2022-08-22,Bronze,True
+134,Mary,Okafor,Male,mary133@mail.com,08066387863,Abuja,Rivers,2020-09-23,Platinum,False
+135,Sarah,Ojo,Male,sarah134@mail.com,08081605961,Abuja,FCT,2021-08-21,Silver,False
+136,David,Adebayo,Male,david135@mail.com,08048254966,Lagos,Rivers,2024-10-12,Gold,False
+137,Sarah,Eze,Female,sarah136@mail.com,08078686248,Ibadan,Oyo,2020-12-06,Platinum,False
+138,John,Okafor,Male,john137@mail.com,08068035097,Lagos,Lagos,2022-06-19,Silver,True
+139,Aisha,Eze,Female,aisha138@mail.com,08096757827,Ibadan,FCT,2021-11-08,Gold,True
+140,David,Ojo,Male,david139@mail.com,08066142004,Lagos,Lagos,2024-08-11,Gold,False
+141,David,Bello,Male,david140@mail.com,08032902526,Ibadan,Oyo,2023-10-20,Platinum,False
+142,Sarah,Eze,Female,sarah141@mail.com,08090088610,Ibadan,FCT,2024-02-02,Gold,True
+143,James,Bello,Female,james142@mail.com,08094513245,Lagos,Rivers,2020-04-05,Gold,True
+144,James,Adebayo,Male,james143@mail.com,08092359431,Lagos,Oyo,2021-03-25,Bronze,True
+145,John,Eze,Female,john144@mail.com,08087177601,Abuja,Rivers,2021-06-29,Platinum,False
+146,Aisha,Ojo,Male,aisha145@mail.com,08055644565,Lagos,Rivers,2021-11-18,Silver,False
+147,David,Eze,Male,david146@mail.com,08062345370,Lagos,Lagos,2023-01-30,Platinum,True
+148,Sarah,Bello,Female,sarah147@mail.com,08025172825,Lagos,Rivers,2021-03-04,Platinum,True
+149,Mary,Okafor,Female,mary148@mail.com,08054928123,Ibadan,Rivers,2021-10-22,Silver,False
+150,James,Adebayo,Female,james149@mail.com,08020876944,Lagos,FCT,2020-03-22,Bronze,True
+151,Mary,Adebayo,Male,mary150@mail.com,08024963324,Abuja,FCT,2024-04-18,Platinum,False
+152,John,Bello,Male,john151@mail.com,08054400913,Ibadan,FCT,2022-04-15,Platinum,True
+153,Aisha,Adebayo,Male,aisha152@mail.com,08044459545,Port Harcourt,Rivers,2023-07-28,Bronze,False
+154,David,Bello,Male,david153@mail.com,08089536238,Lagos,Lagos,2023-02-03,Bronze,True
+155,Mary,Adebayo,Male,mary154@mail.com,08094943929,Lagos,Rivers,2020-11-21,Bronze,True
+156,Sarah,Okafor,Female,sarah155@mail.com,08089256360,Port Harcourt,FCT,2023-06-28,Gold,False
+157,James,Eze,Male,james156@mail.com,08045347754,Abuja,Rivers,2020-04-16,Silver,True
+158,Sarah,Adebayo,Male,sarah157@mail.com,08089855997,Port Harcourt,Lagos,2023-06-13,Bronze,False
+159,James,Okafor,Male,james158@mail.com,08024335304,Abuja,Rivers,2021-01-13,Bronze,True
+160,James,Ojo,Male,james159@mail.com,08035783123,Ibadan,Lagos,2024-06-04,Silver,False
+161,Aisha,Adebayo,Female,aisha160@mail.com,08070535958,Port Harcourt,FCT,2024-12-25,Platinum,False
+162,John,Okafor,Female,john161@mail.com,08082326737,Abuja,Lagos,2021-01-14,Silver,True
+163,Mary,Bello,Female,mary162@mail.com,08037872275,Abuja,Rivers,2020-09-18,Bronze,False
+164,John,Adebayo,Male,john163@mail.com,08087006411,Abuja,Oyo,2023-11-03,Bronze,True
+165,John,Bello,Female,john164@mail.com,08074880747,Abuja,Rivers,2023-01-16,Gold,True
+166,Sarah,Okafor,Female,sarah165@mail.com,08091727155,Lagos,Lagos,2023-08-02,Silver,True
+167,James,Eze,Female,james166@mail.com,08014096315,Port Harcourt,Rivers,2024-08-21,Bronze,True
+168,Aisha,Bello,Female,aisha167@mail.com,08079037181,Port Harcourt,FCT,2021-10-21,Platinum,False
+169,Mary,Ojo,Female,mary168@mail.com,08034380041,Abuja,Lagos,2024-06-26,Bronze,True
+170,John,Okafor,Male,john169@mail.com,08010873569,Port Harcourt,Lagos,2020-01-27,Platinum,True
+171,David,Ojo,Male,david170@mail.com,08030878186,Abuja,FCT,2021-11-07,Platinum,False
+172,John,Ojo,Female,john171@mail.com,08050775829,Port Harcourt,Lagos,2020-01-10,Gold,True
+173,James,Ojo,Male,james172@mail.com,08094797922,Abuja,Rivers,2024-09-16,Bronze,True
+174,James,Bello,Male,james173@mail.com,08037775031,Abuja,FCT,2024-11-10,Gold,True
+175,David,Ojo,Male,david174@mail.com,08067246582,Port Harcourt,Rivers,2021-08-30,Gold,False
+176,James,Eze,Male,james175@mail.com,08044728687,Port Harcourt,Lagos,2020-02-07,Gold,False
+177,David,Okafor,Female,david176@mail.com,08047419851,Lagos,FCT,2023-04-26,Platinum,True
+178,John,Okafor,Male,john177@mail.com,08096863336,Port Harcourt,FCT,2020-03-28,Gold,True
+179,David,Okafor,Female,david178@mail.com,08068285470,Abuja,Oyo,2022-02-17,Bronze,True
+180,David,Okafor,Male,david179@mail.com,08093491540,Ibadan,Rivers,2023-10-31,Platinum,False
+181,David,Eze,Female,david180@mail.com,08061817015,Lagos,FCT,2024-08-09,Bronze,False
+182,Sarah,Eze,Female,sarah181@mail.com,08025833562,Lagos,Lagos,2020-06-07,Bronze,False
+183,James,Eze,Female,james182@mail.com,08013373375,Port Harcourt,Rivers,2024-03-23,Gold,True
+184,Sarah,Okafor,Male,sarah183@mail.com,08053215460,Lagos,FCT,2023-11-08,Bronze,False
+185,James,Adebayo,Female,james184@mail.com,08060573757,Ibadan,FCT,2020-05-31,Platinum,True
+186,David,Bello,Female,david185@mail.com,08076619058,Ibadan,Oyo,2022-09-07,Platinum,True
+187,Mary,Eze,Female,mary186@mail.com,08094922426,Abuja,Lagos,2020-10-11,Silver,True
+188,James,Ojo,Female,james187@mail.com,08017545641,Port Harcourt,FCT,2022-11-17,Silver,True
+189,Aisha,Ojo,Male,aisha188@mail.com,08023051479,Abuja,Lagos,2024-12-04,Platinum,False
+190,Aisha,Bello,Male,aisha189@mail.com,08039147600,Abuja,Oyo,2021-09-24,Gold,True
+191,Aisha,Eze,Female,aisha190@mail.com,08098683454,Lagos,Oyo,2022-10-22,Silver,True
+192,David,Okafor,Male,david191@mail.com,08060517402,Ibadan,Oyo,2022-12-02,Bronze,True
+193,Aisha,Ojo,Female,aisha192@mail.com,08099016083,Lagos,Lagos,2024-12-16,Gold,False
+194,Aisha,Ojo,Male,aisha193@mail.com,08024818716,Ibadan,Lagos,2020-03-19,Silver,False
+195,David,Ojo,Female,david194@mail.com,08053711460,Ibadan,Oyo,2022-10-12,Bronze,True
+196,Aisha,Eze,Male,aisha195@mail.com,08038809586,Ibadan,FCT,2020-10-18,Gold,True
+197,John,Ojo,Female,john196@mail.com,08075573240,Lagos,Lagos,2024-09-17,Platinum,True
+198,Mary,Eze,Male,mary197@mail.com,08017008728,Ibadan,Rivers,2021-01-09,Platinum,True
+199,David,Okafor,Male,david198@mail.com,08095653557,Ibadan,Rivers,2023-07-15,Bronze,True
+200,Sarah,Okafor,Male,sarah199@mail.com,08098303651,Ibadan,Rivers,2023-08-04,Silver,False
+201,Aisha,Adebayo,Male,aisha200@mail.com,08042178203,Lagos,Rivers,2022-03-08,Bronze,False
+202,Aisha,Eze,Female,aisha201@mail.com,08081221463,Port Harcourt,Rivers,2024-10-03,Bronze,False
+203,David,Adebayo,Female,david202@mail.com,08022538038,Port Harcourt,FCT,2022-08-23,Gold,True
+204,Sarah,Ojo,Male,sarah203@mail.com,08093897040,Lagos,Oyo,2021-10-30,Gold,False
+205,Mary,Okafor,Female,mary204@mail.com,08014920813,Lagos,Lagos,2020-06-09,Platinum,False
+206,Mary,Okafor,Female,mary205@mail.com,08013769222,Ibadan,Lagos,2024-10-15,Gold,True
+207,Aisha,Adebayo,Male,aisha206@mail.com,08095464252,Abuja,Lagos,2020-05-03,Silver,True
+208,John,Adebayo,Female,john207@mail.com,08019684363,Lagos,Lagos,2021-01-05,Gold,False
+209,John,Eze,Female,john208@mail.com,08010843603,Ibadan,FCT,2020-02-28,Gold,False
+210,John,Ojo,Female,john209@mail.com,08023117381,Port Harcourt,Rivers,2021-04-18,Gold,True
+211,Mary,Bello,Female,mary210@mail.com,08079627630,Ibadan,FCT,2020-02-21,Bronze,True
+212,Mary,Bello,Female,mary211@mail.com,08031692468,Abuja,Oyo,2022-10-30,Silver,False
+213,Sarah,Adebayo,Male,sarah212@mail.com,08052794310,Port Harcourt,Lagos,2020-11-02,Platinum,True
+214,Mary,Okafor,Male,mary213@mail.com,08049579504,Port Harcourt,Oyo,2024-10-09,Bronze,True
+215,Sarah,Eze,Male,sarah214@mail.com,08043048769,Lagos,Rivers,2022-12-22,Gold,True
+216,Aisha,Bello,Female,aisha215@mail.com,08060268666,Lagos,Rivers,2024-10-29,Silver,True
+217,Mary,Adebayo,Male,mary216@mail.com,08026156989,Ibadan,Lagos,2021-09-29,Bronze,False
+218,David,Eze,Male,david217@mail.com,08078664812,Port Harcourt,Lagos,2021-09-27,Gold,True
+219,David,Bello,Male,david218@mail.com,08029315819,Port Harcourt,FCT,2023-06-01,Platinum,True
+220,Sarah,Ojo,Female,sarah219@mail.com,08058744595,Lagos,Oyo,2020-11-13,Platinum,True
+221,John,Bello,Female,john220@mail.com,08070376587,Ibadan,Lagos,2020-06-16,Platinum,True
+222,Sarah,Adebayo,Female,sarah221@mail.com,08068515390,Ibadan,Oyo,2022-10-11,Bronze,True
+223,Mary,Bello,Male,mary222@mail.com,08033856662,Ibadan,Rivers,2021-11-10,Silver,False
+224,Sarah,Eze,Male,sarah223@mail.com,08028899202,Abuja,Lagos,2021-10-20,Gold,True
+225,David,Ojo,Male,david224@mail.com,08036984003,Lagos,Rivers,2020-05-10,Platinum,True
+226,Aisha,Ojo,Female,aisha225@mail.com,08043529317,Ibadan,FCT,2022-11-11,Gold,False
+227,James,Bello,Female,james226@mail.com,08080648551,Abuja,Rivers,2020-10-14,Platinum,False
+228,David,Ojo,Male,david227@mail.com,08030184459,Lagos,Lagos,2023-11-05,Silver,True
+229,John,Ojo,Female,john228@mail.com,08010536072,Port Harcourt,FCT,2021-08-16,Bronze,True
+230,Aisha,Bello,Female,aisha229@mail.com,08022342475,Port Harcourt,FCT,2021-09-16,Platinum,True
+231,David,Adebayo,Female,david230@mail.com,08092816512,Abuja,Oyo,2021-06-28,Gold,True
+232,James,Eze,Male,james231@mail.com,08085472030,Ibadan,FCT,2021-12-12,Silver,False
+233,James,Eze,Female,james232@mail.com,08089555593,Abuja,FCT,2020-08-21,Gold,False
+234,Sarah,Eze,Male,sarah233@mail.com,08040072968,Lagos,Rivers,2024-06-09,Platinum,False
+235,John,Okafor,Male,john234@mail.com,08087460958,Ibadan,Rivers,2024-01-24,Gold,True
+236,David,Ojo,Female,david235@mail.com,08079827007,Port Harcourt,FCT,2024-06-12,Bronze,False
+237,John,Eze,Male,john236@mail.com,08029950917,Abuja,FCT,2020-07-23,Gold,True
+238,Aisha,Ojo,Female,aisha237@mail.com,08011687774,Port Harcourt,Lagos,2023-06-10,Platinum,True
+239,Sarah,Adebayo,Female,sarah238@mail.com,08058934841,Ibadan,FCT,2020-10-29,Platinum,False
+240,James,Adebayo,Female,james239@mail.com,08074719867,Abuja,FCT,2021-04-25,Platinum,False
+241,John,Eze,Male,john240@mail.com,08091804789,Port Harcourt,Oyo,2023-05-21,Silver,True
+242,Sarah,Bello,Female,sarah241@mail.com,08036279895,Port Harcourt,Lagos,2020-05-22,Bronze,False
+243,James,Okafor,Male,james242@mail.com,08078971007,Abuja,Oyo,2022-11-03,Gold,False
+244,Aisha,Adebayo,Male,aisha243@mail.com,08096613887,Port Harcourt,Oyo,2022-05-04,Silver,True
+245,David,Eze,Male,david244@mail.com,08075451300,Ibadan,FCT,2023-04-22,Gold,False
+246,Sarah,Adebayo,Female,sarah245@mail.com,08048945733,Lagos,FCT,2020-08-02,Gold,True
+247,James,Eze,Male,james246@mail.com,08031572929,Ibadan,Oyo,2022-08-22,Gold,False
+248,Aisha,Ojo,Female,aisha247@mail.com,08087172418,Abuja,Rivers,2020-11-11,Bronze,True
+249,John,Ojo,Male,john248@mail.com,08057352545,Ibadan,FCT,2020-06-27,Bronze,False
+250,David,Okafor,Male,david249@mail.com,08019087454,Abuja,Rivers,2022-09-09,Platinum,False
+251,Aisha,Okafor,Male,aisha250@mail.com,08010603116,Port Harcourt,Rivers,2020-05-07,Silver,True
+252,David,Ojo,Female,david251@mail.com,08068067910,Abuja,Rivers,2020-07-21,Silver,False
+253,John,Ojo,Female,john252@mail.com,08058421494,Lagos,Oyo,2022-12-23,Platinum,True
+254,Mary,Okafor,Female,mary253@mail.com,08092158094,Ibadan,Lagos,2023-06-09,Gold,True
+255,Mary,Ojo,Female,mary254@mail.com,08031336558,Abuja,Oyo,2021-10-17,Gold,False
+256,James,Ojo,Male,james255@mail.com,08020860511,Lagos,Oyo,2023-09-23,Silver,True
+257,Sarah,Eze,Female,sarah256@mail.com,08089174975,Abuja,Lagos,2024-11-20,Bronze,True
+258,Mary,Adebayo,Female,mary257@mail.com,08079062639,Port Harcourt,Rivers,2024-03-27,Platinum,True
+259,James,Adebayo,Male,james258@mail.com,08036784144,Port Harcourt,Rivers,2024-03-18,Platinum,True
+260,Aisha,Bello,Female,aisha259@mail.com,08087287496,Port Harcourt,FCT,2024-07-02,Gold,False
+261,Mary,Adebayo,Female,mary260@mail.com,08027323896,Port Harcourt,FCT,2021-01-25,Silver,False
+262,Sarah,Ojo,Male,sarah261@mail.com,08091472265,Ibadan,Oyo,2024-01-25,Platinum,False
+263,Aisha,Ojo,Male,aisha262@mail.com,08082748044,Lagos,Oyo,2024-01-23,Bronze,False
+264,James,Okafor,Female,james263@mail.com,08060415469,Ibadan,Rivers,2022-02-14,Gold,False
+265,Mary,Ojo,Female,mary264@mail.com,08041582209,Ibadan,Lagos,2021-04-23,Bronze,True
+266,John,Ojo,Female,john265@mail.com,08075262565,Lagos,FCT,2020-02-07,Silver,True
+267,James,Okafor,Male,james266@mail.com,08011873710,Ibadan,Lagos,2021-12-01,Gold,True
+268,Sarah,Eze,Male,sarah267@mail.com,08061304082,Lagos,Oyo,2023-08-18,Bronze,False
+269,John,Okafor,Female,john268@mail.com,08054008674,Lagos,Oyo,2021-05-09,Platinum,False
+270,David,Bello,Male,david269@mail.com,08062884700,Lagos,Rivers,2024-01-20,Platinum,False
+271,Aisha,Eze,Male,aisha270@mail.com,08039986263,Ibadan,Lagos,2021-06-28,Silver,False
+272,Aisha,Bello,Female,aisha271@mail.com,08038713510,Abuja,FCT,2024-02-03,Platinum,True
+273,David,Adebayo,Female,david272@mail.com,08048221090,Lagos,FCT,2021-02-23,Platinum,False
+274,Mary,Bello,Male,mary273@mail.com,08027932451,Ibadan,Oyo,2022-01-10,Bronze,False
+275,Aisha,Bello,Male,aisha274@mail.com,08048436096,Ibadan,FCT,2023-03-16,Bronze,False
+276,Aisha,Okafor,Male,aisha275@mail.com,08031896691,Ibadan,FCT,2024-11-18,Gold,True
+277,Sarah,Okafor,Male,sarah276@mail.com,08052874904,Lagos,Lagos,2022-07-29,Bronze,True
+278,Aisha,Adebayo,Male,aisha277@mail.com,08060703535,Port Harcourt,Oyo,2022-01-16,Gold,False
+279,Mary,Eze,Male,mary278@mail.com,08074690548,Port Harcourt,Rivers,2020-03-24,Bronze,False
+280,Aisha,Bello,Male,aisha279@mail.com,08051196563,Abuja,Rivers,2021-05-12,Gold,True
+281,Mary,Ojo,Female,mary280@mail.com,08066996772,Ibadan,FCT,2024-11-12,Platinum,False
+282,Aisha,Okafor,Male,aisha281@mail.com,08072371717,Lagos,Lagos,2023-11-01,Bronze,True
+283,James,Bello,Male,james282@mail.com,08097294004,Port Harcourt,Rivers,2021-11-10,Platinum,False
+284,David,Ojo,Male,david283@mail.com,08074324615,Abuja,Oyo,2022-04-08,Platinum,False
+285,James,Bello,Male,james284@mail.com,08051379194,Abuja,FCT,2023-10-04,Platinum,False
+286,Aisha,Adebayo,Female,aisha285@mail.com,08044198721,Port Harcourt,Oyo,2023-04-13,Gold,False
+287,Sarah,Okafor,Female,sarah286@mail.com,08069138081,Abuja,Lagos,2020-06-13,Silver,False
+288,Mary,Okafor,Female,mary287@mail.com,08017359876,Port Harcourt,Oyo,2022-05-04,Platinum,False
+289,Aisha,Bello,Male,aisha288@mail.com,08042864656,Abuja,Rivers,2024-06-27,Silver,False
+290,Aisha,Ojo,Female,aisha289@mail.com,08015526241,Abuja,Oyo,2024-02-10,Silver,False
+291,Mary,Okafor,Female,mary290@mail.com,08058915734,Port Harcourt,Oyo,2020-07-17,Gold,True
+292,Mary,Ojo,Male,mary291@mail.com,08018385131,Lagos,Lagos,2024-07-30,Gold,True
+293,Mary,Adebayo,Female,mary292@mail.com,08030439711,Port Harcourt,Rivers,2023-03-15,Silver,True
+294,James,Ojo,Male,james293@mail.com,08082476329,Ibadan,Rivers,2020-09-04,Silver,False
+295,Mary,Bello,Male,mary294@mail.com,08023824415,Port Harcourt,Lagos,2020-02-14,Gold,False
+296,John,Okafor,Male,john295@mail.com,08059542573,Lagos,Oyo,2024-12-20,Bronze,False
+297,Sarah,Bello,Female,sarah296@mail.com,08076198787,Abuja,Lagos,2020-04-28,Bronze,False
+298,David,Eze,Male,david297@mail.com,08050963207,Abuja,FCT,2021-11-10,Gold,True
+299,Aisha,Eze,Female,aisha298@mail.com,08091965897,Ibadan,Oyo,2020-12-31,Bronze,False
+300,David,Bello,Male,david299@mail.com,08085263954,Ibadan,Oyo,2024-10-29,Bronze,False
+301,James,Okafor,Female,james300@mail.com,08042120459,Abuja,Lagos,2023-10-11,Silver,True
+302,Aisha,Adebayo,Female,aisha301@mail.com,08036159845,Ibadan,Oyo,2024-05-01,Platinum,True
+303,Mary,Eze,Female,mary302@mail.com,08096735000,Ibadan,Oyo,2022-01-12,Silver,False
+304,Aisha,Eze,Female,aisha303@mail.com,08019826990,Lagos,Lagos,2024-06-08,Silver,False
+305,James,Eze,Male,james304@mail.com,08076582443,Abuja,Rivers,2021-10-15,Platinum,True
+306,John,Adebayo,Male,john305@mail.com,08034316709,Lagos,Oyo,2023-09-21,Platinum,False
+307,David,Bello,Male,david306@mail.com,08019557538,Port Harcourt,Oyo,2022-06-02,Platinum,True
+308,Aisha,Bello,Male,aisha307@mail.com,08051195145,Lagos,Oyo,2020-02-21,Gold,False
+309,John,Eze,Female,john308@mail.com,08024650021,Abuja,Lagos,2020-11-07,Bronze,True
+310,Sarah,Adebayo,Male,sarah309@mail.com,08048667755,Port Harcourt,FCT,2022-09-13,Gold,True
+311,James,Okafor,Female,james310@mail.com,08065678119,Port Harcourt,Lagos,2020-03-13,Silver,True
+312,James,Okafor,Female,james311@mail.com,08024591201,Abuja,FCT,2022-03-11,Bronze,False
+313,James,Ojo,Male,james312@mail.com,08074062270,Abuja,FCT,2022-11-28,Bronze,True
+314,Aisha,Adebayo,Female,aisha313@mail.com,08040502230,Lagos,Rivers,2022-08-19,Platinum,True
+315,David,Eze,Male,david314@mail.com,08039686732,Ibadan,Rivers,2022-10-01,Gold,True
+316,Aisha,Ojo,Male,aisha315@mail.com,08022211282,Abuja,Oyo,2021-11-16,Silver,True
+317,James,Okafor,Female,james316@mail.com,08073764866,Abuja,Oyo,2023-05-28,Bronze,False
+318,Mary,Adebayo,Male,mary317@mail.com,08088817091,Port Harcourt,FCT,2023-04-26,Silver,True
+319,Mary,Eze,Female,mary318@mail.com,08095733057,Abuja,Rivers,2020-05-16,Gold,False
+320,John,Okafor,Male,john319@mail.com,08082553000,Ibadan,Rivers,2024-06-16,Bronze,True
+321,Aisha,Ojo,Male,aisha320@mail.com,08056186224,Ibadan,FCT,2022-03-11,Platinum,False
+322,John,Okafor,Female,john321@mail.com,08055162556,Ibadan,FCT,2020-12-31,Bronze,False
+323,James,Eze,Female,james322@mail.com,08011622575,Port Harcourt,Oyo,2022-07-27,Platinum,False
+324,Mary,Adebayo,Male,mary323@mail.com,08060477922,Ibadan,Lagos,2020-09-05,Gold,False
+325,David,Adebayo,Female,david324@mail.com,08068468096,Lagos,Oyo,2022-01-29,Platinum,False
+326,James,Adebayo,Female,james325@mail.com,08080215098,Port Harcourt,Lagos,2022-02-20,Gold,True
+327,Aisha,Bello,Female,aisha326@mail.com,08080027687,Lagos,Oyo,2020-08-21,Platinum,False
+328,James,Adebayo,Male,james327@mail.com,08098661565,Port Harcourt,Rivers,2022-06-03,Bronze,False
+329,David,Adebayo,Female,david328@mail.com,08091399407,Lagos,Rivers,2024-10-31,Bronze,False
+330,Mary,Ojo,Male,mary329@mail.com,08038244778,Lagos,Rivers,2024-04-25,Gold,True
+331,David,Bello,Female,david330@mail.com,08088496526,Port Harcourt,Rivers,2024-04-22,Platinum,False
+332,John,Bello,Female,john331@mail.com,08076087565,Port Harcourt,Oyo,2023-05-02,Gold,True
+333,Mary,Okafor,Male,mary332@mail.com,08037659695,Port Harcourt,FCT,2022-10-11,Bronze,True
+334,Mary,Ojo,Male,mary333@mail.com,08088277542,Port Harcourt,Oyo,2022-06-10,Gold,True
+335,James,Okafor,Female,james334@mail.com,08082320170,Abuja,Oyo,2020-02-12,Platinum,False
+336,Aisha,Adebayo,Female,aisha335@mail.com,08037883626,Abuja,Rivers,2023-12-02,Silver,True
+337,Aisha,Adebayo,Male,aisha336@mail.com,08088046886,Port Harcourt,Lagos,2020-09-12,Silver,False
+338,Aisha,Eze,Female,aisha337@mail.com,08018281913,Port Harcourt,Rivers,2020-10-02,Bronze,True
+339,James,Bello,Male,james338@mail.com,08044690167,Port Harcourt,Oyo,2023-04-04,Platinum,False
+340,Mary,Okafor,Female,mary339@mail.com,08097852075,Port Harcourt,FCT,2022-02-04,Bronze,False
+341,James,Bello,Female,james340@mail.com,08035036957,Port Harcourt,Lagos,2021-09-04,Bronze,False
+342,James,Okafor,Male,james341@mail.com,08016014425,Ibadan,Rivers,2022-02-23,Silver,True
+343,James,Ojo,Male,james342@mail.com,08083832645,Port Harcourt,Rivers,2022-06-23,Silver,False
+344,Sarah,Ojo,Female,sarah343@mail.com,08037928762,Ibadan,Lagos,2023-08-20,Bronze,False
+345,Sarah,Okafor,Male,sarah344@mail.com,08083005043,Port Harcourt,Oyo,2024-11-03,Bronze,True
+346,David,Bello,Male,david345@mail.com,08024430119,Abuja,Lagos,2024-09-14,Platinum,True
+347,Mary,Okafor,Female,mary346@mail.com,08015855738,Ibadan,FCT,2022-11-26,Platinum,False
+348,Aisha,Okafor,Male,aisha347@mail.com,08049209048,Ibadan,Oyo,2024-11-06,Silver,True
+349,David,Adebayo,Female,david348@mail.com,08094644687,Abuja,FCT,2021-08-11,Bronze,False
+350,James,Eze,Female,james349@mail.com,08015300030,Ibadan,Oyo,2022-04-29,Bronze,True
+351,John,Okafor,Female,john350@mail.com,08053147573,Abuja,Oyo,2022-11-18,Gold,True
+352,James,Okafor,Female,james351@mail.com,08070123331,Ibadan,Oyo,2023-11-25,Silver,True
+353,David,Ojo,Male,david352@mail.com,08065205573,Port Harcourt,Rivers,2021-04-08,Silver,True
+354,James,Adebayo,Male,james353@mail.com,08032084548,Lagos,Lagos,2023-04-01,Bronze,False
+355,Aisha,Adebayo,Female,aisha354@mail.com,08035635021,Port Harcourt,Rivers,2020-02-03,Platinum,False
+356,James,Bello,Female,james355@mail.com,08070569095,Port Harcourt,Oyo,2024-12-14,Gold,True
+357,John,Adebayo,Male,john356@mail.com,08066380063,Port Harcourt,Oyo,2023-02-14,Bronze,False
+358,Aisha,Adebayo,Female,aisha357@mail.com,08087576923,Lagos,Rivers,2021-03-26,Bronze,True
+359,Sarah,Bello,Female,sarah358@mail.com,08076887522,Abuja,Lagos,2020-02-17,Platinum,False
+360,Aisha,Adebayo,Male,aisha359@mail.com,08035164923,Lagos,Lagos,2020-07-19,Gold,False
+361,James,Adebayo,Male,james360@mail.com,08082865380,Port Harcourt,Rivers,2022-07-01,Silver,False
+362,Mary,Okafor,Male,mary361@mail.com,08092676136,Lagos,Oyo,2023-12-27,Bronze,True
+363,Mary,Bello,Male,mary362@mail.com,08015589802,Lagos,Rivers,2021-12-30,Silver,True
+364,James,Okafor,Male,james363@mail.com,08072968205,Ibadan,Oyo,2021-08-20,Gold,False
+365,James,Adebayo,Male,james364@mail.com,08037355556,Ibadan,FCT,2020-03-30,Bronze,False
+366,Sarah,Okafor,Female,sarah365@mail.com,08016106260,Lagos,Rivers,2020-08-27,Bronze,False
+367,Sarah,Eze,Female,sarah366@mail.com,08092222918,Abuja,FCT,2024-10-12,Platinum,True
+368,David,Ojo,Male,david367@mail.com,08075402915,Lagos,Oyo,2020-02-10,Bronze,True
+369,John,Eze,Female,john368@mail.com,08086509795,Abuja,Oyo,2024-01-14,Gold,False
+370,John,Okafor,Female,john369@mail.com,08071299056,Lagos,FCT,2020-06-29,Bronze,False
+371,Mary,Eze,Female,mary370@mail.com,08098198382,Port Harcourt,Oyo,2023-01-08,Gold,False
+372,Sarah,Adebayo,Female,sarah371@mail.com,08017691463,Ibadan,Oyo,2022-10-06,Gold,True
+373,James,Ojo,Female,james372@mail.com,08055101860,Abuja,FCT,2024-06-23,Silver,True
+374,Aisha,Adebayo,Female,aisha373@mail.com,08056289589,Port Harcourt,FCT,2022-02-02,Platinum,False
+375,James,Ojo,Male,james374@mail.com,08011277788,Lagos,Lagos,2020-12-22,Gold,False
+376,Aisha,Ojo,Male,aisha375@mail.com,08042812578,Ibadan,Lagos,2021-12-03,Silver,False
+377,Aisha,Ojo,Male,aisha376@mail.com,08082187873,Abuja,Rivers,2022-08-02,Gold,False
+378,David,Bello,Female,david377@mail.com,08093705437,Ibadan,Lagos,2023-02-18,Silver,True
+379,James,Okafor,Male,james378@mail.com,08026999101,Port Harcourt,FCT,2023-11-25,Bronze,True
+380,David,Ojo,Male,david379@mail.com,08029915140,Lagos,FCT,2023-07-10,Silver,True
+381,Sarah,Okafor,Female,sarah380@mail.com,08013676119,Lagos,Lagos,2021-02-15,Silver,True
+382,James,Eze,Male,james381@mail.com,08096391551,Port Harcourt,Oyo,2023-06-22,Silver,True
+383,James,Ojo,Male,james382@mail.com,08025461302,Ibadan,Rivers,2022-04-13,Gold,False
+384,David,Okafor,Female,david383@mail.com,08091344797,Ibadan,Oyo,2020-12-24,Platinum,True
+385,Mary,Eze,Male,mary384@mail.com,08087004603,Ibadan,Rivers,2022-08-10,Silver,True
+386,David,Adebayo,Male,david385@mail.com,08088915245,Lagos,Lagos,2022-06-06,Platinum,False
+387,Sarah,Okafor,Male,sarah386@mail.com,08096030268,Abuja,FCT,2020-06-15,Bronze,True
+388,David,Okafor,Male,david387@mail.com,08030222903,Lagos,Lagos,2022-12-09,Silver,False
+389,David,Adebayo,Female,david388@mail.com,08026193184,Abuja,Oyo,2022-11-03,Gold,True
+390,Aisha,Bello,Male,aisha389@mail.com,08088558655,Lagos,Rivers,2023-05-06,Platinum,False
+391,John,Ojo,Male,john390@mail.com,08064036784,Port Harcourt,Oyo,2024-04-15,Bronze,True
+392,John,Eze,Male,john391@mail.com,08077493643,Abuja,Lagos,2021-07-22,Gold,False
+393,David,Okafor,Male,david392@mail.com,08059524094,Abuja,Lagos,2020-01-27,Gold,True
+394,Sarah,Okafor,Male,sarah393@mail.com,08030700652,Abuja,Oyo,2021-06-21,Platinum,False
+395,David,Ojo,Female,david394@mail.com,08039305010,Abuja,FCT,2023-02-06,Platinum,True
+396,James,Bello,Female,james395@mail.com,08099676430,Ibadan,Oyo,2021-10-27,Gold,False
+397,John,Bello,Female,john396@mail.com,08075170603,Abuja,Rivers,2023-08-16,Gold,False
+398,Sarah,Bello,Female,sarah397@mail.com,08086199426,Port Harcourt,Rivers,2024-06-11,Silver,False
+399,John,Adebayo,Female,john398@mail.com,08073446320,Lagos,Oyo,2021-04-09,Bronze,False
+400,Aisha,Okafor,Female,aisha399@mail.com,08026563711,Port Harcourt,Rivers,2020-06-12,Silver,True
+401,John,Adebayo,Female,john400@mail.com,08050526889,Lagos,Rivers,2024-03-24,Bronze,False
+402,Mary,Eze,Male,mary401@mail.com,08039482287,Ibadan,FCT,2024-03-28,Gold,False
+403,John,Ojo,Female,john402@mail.com,08017041621,Port Harcourt,Rivers,2020-04-10,Silver,True
+404,James,Okafor,Male,james403@mail.com,08010519692,Lagos,FCT,2022-11-13,Bronze,False
+405,James,Ojo,Male,james404@mail.com,08054407010,Port Harcourt,Lagos,2020-04-23,Bronze,True
+406,David,Adebayo,Male,david405@mail.com,08045661611,Abuja,Rivers,2023-12-30,Gold,False
+407,Sarah,Eze,Female,sarah406@mail.com,08013151352,Abuja,FCT,2020-06-15,Silver,True
+408,John,Bello,Male,john407@mail.com,08059616358,Lagos,Lagos,2020-05-11,Bronze,False
+409,David,Okafor,Male,david408@mail.com,08020508925,Abuja,FCT,2021-08-22,Bronze,True
+410,John,Adebayo,Male,john409@mail.com,08080634772,Abuja,Rivers,2022-05-07,Silver,False
+411,Mary,Okafor,Male,mary410@mail.com,08047007531,Abuja,Oyo,2022-09-12,Gold,True
+412,John,Ojo,Female,john411@mail.com,08092023594,Ibadan,FCT,2024-03-23,Gold,True
+413,Mary,Okafor,Male,mary412@mail.com,08048487112,Lagos,Oyo,2023-11-10,Platinum,False
+414,David,Adebayo,Male,david413@mail.com,08098222366,Port Harcourt,Lagos,2024-06-23,Silver,True
+415,John,Ojo,Male,john414@mail.com,08066102102,Abuja,Lagos,2022-07-09,Silver,True
+416,Mary,Okafor,Female,mary415@mail.com,08051952260,Lagos,Oyo,2021-04-07,Platinum,False
+417,Sarah,Ojo,Male,sarah416@mail.com,08085039028,Port Harcourt,Lagos,2022-08-05,Silver,True
+418,David,Bello,Male,david417@mail.com,08040242473,Abuja,Rivers,2020-01-12,Gold,True
+419,David,Okafor,Male,david418@mail.com,08062581454,Lagos,Rivers,2024-04-13,Silver,True
+420,James,Ojo,Female,james419@mail.com,08054163633,Abuja,Rivers,2020-02-25,Bronze,False
+421,Mary,Eze,Male,mary420@mail.com,08055776422,Lagos,Oyo,2023-10-13,Bronze,True
+422,Aisha,Ojo,Female,aisha421@mail.com,08019193271,Lagos,Rivers,2023-12-19,Gold,False
+423,John,Eze,Male,john422@mail.com,08014365731,Port Harcourt,FCT,2021-09-06,Bronze,False
+424,Mary,Eze,Male,mary423@mail.com,08088466990,Ibadan,Lagos,2020-03-27,Silver,True
+425,David,Eze,Female,david424@mail.com,08032638015,Port Harcourt,Oyo,2020-05-15,Gold,True
+426,Aisha,Okafor,Female,aisha425@mail.com,08015401372,Port Harcourt,Lagos,2020-06-18,Gold,False
+427,Aisha,Eze,Male,aisha426@mail.com,08066528735,Abuja,Rivers,2020-03-18,Platinum,False
+428,Mary,Ojo,Female,mary427@mail.com,08019604512,Port Harcourt,FCT,2020-01-24,Gold,False
+429,Aisha,Bello,Female,aisha428@mail.com,08085940236,Abuja,Oyo,2022-11-21,Gold,False
+430,Sarah,Bello,Male,sarah429@mail.com,08098058493,Lagos,Rivers,2024-02-03,Bronze,False
+431,Mary,Adebayo,Male,mary430@mail.com,08096366172,Port Harcourt,Lagos,2021-02-10,Gold,False
+432,David,Eze,Male,david431@mail.com,08035893019,Port Harcourt,FCT,2023-04-02,Platinum,False
+433,James,Okafor,Female,james432@mail.com,08017335728,Ibadan,Lagos,2020-04-24,Gold,False
+434,John,Eze,Male,john433@mail.com,08046124478,Ibadan,FCT,2024-01-04,Silver,False
+435,David,Bello,Female,david434@mail.com,08069764807,Lagos,Rivers,2023-09-15,Gold,False
+436,John,Okafor,Male,john435@mail.com,08024073654,Lagos,Rivers,2022-10-13,Silver,False
+437,Mary,Ojo,Female,mary436@mail.com,08037166606,Port Harcourt,FCT,2022-09-26,Silver,True
+438,Aisha,Okafor,Female,aisha437@mail.com,08078844937,Lagos,Oyo,2020-01-29,Bronze,True
+439,Aisha,Ojo,Male,aisha438@mail.com,08088498476,Port Harcourt,Oyo,2023-04-04,Gold,True
+440,David,Eze,Male,david439@mail.com,08031540563,Port Harcourt,FCT,2024-07-21,Platinum,False
+441,John,Ojo,Female,john440@mail.com,08019128696,Abuja,Lagos,2021-07-22,Bronze,False
+442,Mary,Adebayo,Female,mary441@mail.com,08085746919,Port Harcourt,Oyo,2023-02-06,Bronze,False
+443,Mary,Ojo,Female,mary442@mail.com,08086059078,Lagos,Rivers,2020-04-07,Silver,False
+444,David,Eze,Male,david443@mail.com,08038358868,Lagos,FCT,2021-11-03,Platinum,False
+445,Sarah,Adebayo,Female,sarah444@mail.com,08085242761,Port Harcourt,Rivers,2022-04-29,Bronze,True
+446,Sarah,Ojo,Male,sarah445@mail.com,08057018555,Port Harcourt,FCT,2022-02-08,Gold,True
+447,Mary,Adebayo,Male,mary446@mail.com,08088966588,Ibadan,FCT,2021-05-03,Platinum,True
+448,James,Bello,Female,james447@mail.com,08053543891,Port Harcourt,Rivers,2024-10-17,Silver,True
+449,John,Eze,Male,john448@mail.com,08086537646,Lagos,Oyo,2021-09-03,Silver,True
+450,Mary,Ojo,Female,mary449@mail.com,08017756577,Port Harcourt,Oyo,2020-05-30,Bronze,True
+451,David,Bello,Male,david450@mail.com,08021213933,Abuja,FCT,2023-12-10,Bronze,False
+452,Sarah,Bello,Female,sarah451@mail.com,08056699297,Ibadan,Oyo,2023-11-03,Platinum,False
+453,Mary,Eze,Female,mary452@mail.com,08090015676,Ibadan,Oyo,2022-07-01,Platinum,False
+454,David,Okafor,Female,david453@mail.com,08089414940,Port Harcourt,FCT,2022-06-04,Silver,False
+455,Mary,Adebayo,Male,mary454@mail.com,08055369161,Port Harcourt,Oyo,2020-12-17,Silver,True
+456,James,Eze,Male,james455@mail.com,08039310753,Abuja,Oyo,2020-03-08,Bronze,True
+457,James,Adebayo,Female,james456@mail.com,08099530440,Abuja,FCT,2021-03-21,Silver,True
+458,Mary,Okafor,Female,mary457@mail.com,08093984796,Port Harcourt,Rivers,2020-12-18,Gold,True
+459,John,Ojo,Male,john458@mail.com,08096342576,Port Harcourt,Lagos,2020-01-02,Bronze,False
+460,James,Eze,Female,james459@mail.com,08062028895,Abuja,FCT,2021-01-03,Bronze,True
+461,Mary,Okafor,Male,mary460@mail.com,08078512422,Abuja,FCT,2020-07-21,Silver,True
+462,Sarah,Okafor,Male,sarah461@mail.com,08091762123,Ibadan,Oyo,2021-03-04,Bronze,True
+463,Mary,Eze,Female,mary462@mail.com,08042473911,Lagos,Rivers,2020-08-01,Bronze,True
+464,Sarah,Okafor,Female,sarah463@mail.com,08060119659,Port Harcourt,Rivers,2020-03-27,Bronze,True
+465,David,Ojo,Male,david464@mail.com,08075759317,Abuja,Oyo,2020-10-14,Gold,False
+466,James,Eze,Female,james465@mail.com,08057754806,Ibadan,Rivers,2023-06-10,Bronze,False
+467,Sarah,Eze,Male,sarah466@mail.com,08067224841,Port Harcourt,Lagos,2020-06-26,Silver,True
+468,Sarah,Eze,Female,sarah467@mail.com,08027621450,Port Harcourt,Oyo,2024-02-10,Silver,False
+469,Sarah,Ojo,Male,sarah468@mail.com,08048128466,Lagos,Rivers,2021-02-09,Bronze,False
+470,Mary,Adebayo,Male,mary469@mail.com,08019210421,Abuja,Lagos,2020-08-25,Bronze,False
+471,David,Bello,Female,david470@mail.com,08085387868,Lagos,FCT,2023-04-15,Gold,False
+472,Sarah,Eze,Female,sarah471@mail.com,08045892302,Lagos,FCT,2021-06-10,Bronze,True
+473,Mary,Ojo,Male,mary472@mail.com,08046590823,Port Harcourt,Rivers,2023-05-17,Bronze,False
+474,David,Okafor,Female,david473@mail.com,08093860842,Ibadan,FCT,2024-05-28,Bronze,False
+475,John,Okafor,Female,john474@mail.com,08078226930,Abuja,Rivers,2021-04-07,Bronze,False
+476,Mary,Adebayo,Female,mary475@mail.com,08052095408,Lagos,Lagos,2022-06-06,Bronze,False
+477,James,Bello,Female,james476@mail.com,08038583853,Port Harcourt,Lagos,2020-04-17,Bronze,True
+478,David,Okafor,Female,david477@mail.com,08030721439,Abuja,Rivers,2024-03-15,Bronze,True
+479,James,Adebayo,Female,james478@mail.com,08080420781,Port Harcourt,FCT,2020-05-06,Platinum,True
+480,Mary,Eze,Male,mary479@mail.com,08058149479,Lagos,Rivers,2021-03-11,Silver,True
+481,James,Eze,Male,james480@mail.com,08037020368,Port Harcourt,FCT,2024-06-16,Bronze,True
+482,Sarah,Eze,Female,sarah481@mail.com,08022073990,Abuja,FCT,2023-04-29,Platinum,False
+483,Mary,Adebayo,Female,mary482@mail.com,08060249150,Abuja,Lagos,2023-04-16,Bronze,True
+484,James,Okafor,Female,james483@mail.com,08063593271,Abuja,Lagos,2021-07-19,Platinum,True
+485,Mary,Adebayo,Male,mary484@mail.com,08012091853,Lagos,Lagos,2021-09-24,Platinum,True
+486,David,Ojo,Female,david485@mail.com,08079372995,Lagos,FCT,2021-11-04,Bronze,False
+487,John,Eze,Male,john486@mail.com,08095829190,Port Harcourt,Oyo,2021-11-11,Bronze,True
+488,Sarah,Ojo,Male,sarah487@mail.com,08016364586,Abuja,Oyo,2022-04-21,Gold,True
+489,James,Bello,Female,james488@mail.com,08090879352,Port Harcourt,FCT,2020-06-14,Platinum,True
+490,Sarah,Adebayo,Male,sarah489@mail.com,08043826186,Lagos,Oyo,2021-08-05,Silver,True
+491,David,Eze,Female,david490@mail.com,08096491019,Ibadan,Rivers,2024-12-12,Bronze,True
+492,Mary,Eze,Female,mary491@mail.com,08041603422,Abuja,Lagos,2020-07-09,Silver,False
+493,Sarah,Ojo,Male,sarah492@mail.com,08061006762,Ibadan,FCT,2021-08-23,Silver,False
+494,Sarah,Eze,Female,sarah493@mail.com,08072197378,Lagos,Oyo,2021-03-19,Platinum,True
+495,Sarah,Okafor,Male,sarah494@mail.com,08088796943,Lagos,Oyo,2022-07-05,Gold,True
+496,David,Eze,Male,david495@mail.com,08083632732,Abuja,Oyo,2021-06-30,Silver,True
+497,Sarah,Eze,Male,sarah496@mail.com,08087766475,Port Harcourt,Oyo,2020-03-23,Silver,True
+498,John,Ojo,Male,john497@mail.com,08016963127,Abuja,Oyo,2022-01-18,Silver,True
+499,Aisha,Eze,Female,aisha498@mail.com,08082080897,Abuja,Rivers,2022-08-26,Bronze,False
+500,Mary,Eze,Female,mary499@mail.com,08086796863,Lagos,Rivers,2023-07-09,Bronze,True

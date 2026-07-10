@@ -1,0 +1,31 @@
+EmployeeID,FirstName,LastName,Gender,Department,JobTitle,HireDate,Salary,Email,PhoneNumber,EmploymentStatus,StoreID
+1,Blessing,Adebayo,Female,Operations,Inventory Coordinator,2022-10-25,166436,blessing.adebayo0@company.com,08083911361,Active,4
+2,Blessing,Eze,Female,Sales,Senior Sales Associate,2018-07-04,138724,blessing.eze1@company.com,08058349301,Active,7
+3,Aisha,Adeyemi,Female,Operations,Operations Officer,2021-11-12,107298,aisha.adeyemi2@company.com,08038260016,Active,1
+4,Esther,Eze,Female,Marketing,Marketing Executive,2021-11-19,323061,esther.eze3@company.com,08061512299,Active,6
+5,Tunde,Okafor,Male,Finance,Finance Analyst,2022-10-17,352272,tunde.okafor4@company.com,08033102920,Active,6
+6,David,Adeyemi,Male,Sales,Sales Associate,2021-12-06,261727,david.adeyemi5@company.com,08068345844,Active,7
+7,Mary,Ojo,Female,HR,HR Officer,2022-01-04,454789,mary.ojo6@company.com,08038454407,Active,9
+8,Blessing,Bello,Female,Sales,Sales Associate,2021-08-08,206863,blessing.bello7@company.com,08071740044,Active,9
+9,Emeka,Eze,Male,Sales,Senior Sales Associate,2019-03-10,169258,emeka.eze8@company.com,08080749397,Active,3
+10,Mary,Ojo,Female,IT,Systems Admin,2019-11-19,433967,mary.ojo9@company.com,08091303132,Active,1
+11,Mary,Eze,Female,HR,Recruiter,2022-05-07,335635,mary.eze10@company.com,08064760387,Active,8
+12,Blessing,Adeyemi,Female,HR,HR Officer,2018-08-23,272896,blessing.adeyemi11@company.com,08011280485,Active,9
+13,Esther,Bello,Female,IT,Systems Admin,2022-06-10,295127,esther.bello12@company.com,08065789080,Active,7
+14,Aisha,Adebayo,Female,HR,Recruiter,2022-04-23,278259,aisha.adebayo13@company.com,08036089156,Active,1
+15,Samuel,Adebayo,Male,IT,Systems Admin,2018-10-24,474347,samuel.adebayo14@company.com,08091550711,Active,7
+16,David,Eze,Male,IT,IT Support Specialist,2024-09-23,119919,david.eze15@company.com,08095800515,Active,6
+17,Tunde,Bello,Male,IT,Systems Admin,2019-09-24,329819,tunde.bello16@company.com,08048843185,Active,1
+18,Esther,Okafor,Female,Operations,Operations Officer,2023-12-02,369310,esther.okafor17@company.com,08084184924,Active,3
+19,Mary,Ojo,Female,Finance,Finance Analyst,2018-04-01,452241,mary.ojo18@company.com,08021746654,Active,2
+20,Emeka,Adeyemi,Male,Operations,Operations Officer,2024-05-15,208070,emeka.adeyemi19@company.com,08038355569,Active,9
+21,Esther,Bello,Female,Sales,Senior Sales Associate,2024-03-14,365353,esther.bello20@company.com,08048837153,Active,2
+22,Esther,Ojo,Female,Finance,Finance Analyst,2024-03-18,147516,esther.ojo21@company.com,08039423326,Active,9
+23,Esther,Adeyemi,Female,Finance,Accountant,2021-12-16,95509,esther.adeyemi22@company.com,08013690072,Active,1
+24,Aisha,Ojo,Female,Operations,Operations Officer,2024-06-24,445700,aisha.ojo23@company.com,08051428432,Active,7
+25,Emeka,Adebayo,Male,Marketing,Marketing Executive,2023-04-22,180612,emeka.adebayo24@company.com,08071817274,Active,10
+26,Chinedu,Adebayo,Male,Operations,Operations Officer,2024-04-07,145103,chinedu.adebayo25@company.com,08042811632,Active,3
+27,Esther,Eze,Female,HR,Recruiter,2018-05-11,422698,esther.eze26@company.com,08016785190,Active,6
+28,Ibrahim,Adeyemi,Male,HR,Recruiter,2018-12-30,268027,ibrahim.adeyemi27@company.com,08091099906,Active,4
+29,Chinedu,Eze,Male,Operations,Inventory Coordinator,2019-05-03,153012,chinedu.eze28@company.com,08055799649,Active,9
+30,Ibrahim,Eze,Male,Finance,Finance Analyst,2019-05-16,340734,ibrahim.eze29@company.com,08053604979,Active,7
