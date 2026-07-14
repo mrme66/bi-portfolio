@@ -1,0 +1,9 @@
+DepartmentID,DepartmentName,DepartmentHead,EmployeeCount,Location
+D001,Sales,Daniel Johnson,82,Lagos
+D002,Marketing,Sophia Williams,34,Lagos
+D003,Finance,Michael Brown,25,Lagos
+D004,Human Resources,Emma Davis,18,Lagos
+D005,Operations,James Wilson,96,Abuja
+D006,Information Technology,David Miller,41,Lagos
+D007,Customer Support,Olivia Moore,57,Abuja
+D008,Research & Development,Ethan Taylor,29,Port Harcourt
