@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS apex_finance;
+CREATE DATABASE apex_finance;
