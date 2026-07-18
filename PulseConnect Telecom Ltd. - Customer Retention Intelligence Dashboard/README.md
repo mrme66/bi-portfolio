@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project simulates a real-world Business Intelligence solution developed for a telecommunications company. Using PostgreSQL and Microsoft Power BI, raw transactional data was transformed into an interactive executive dashboard that provides insights into revenue performance, customer acquisition, subscription performance, regional performance, and customer intelligence.
+This project simulates a real-world Business Intelligence solution developed for a telecommunications company. Rather than using a downloaded dataset, the data was engineered from scratch using advanced Microsoft Excel techniques before being imported into PostgreSQL for relational database design and SQL analysis. The final executive dashboard was developed in Microsoft Power BI to provide insights into revenue performance, customer acquisition, subscription performance, regional performance, billing behaviour, and customer intelligence.
 
-The project demonstrates the complete BI workflow from database design and SQL analysis to data modeling, DAX calculations, and dashboard development.
+The project demonstrates the complete Business Intelligence workflow from data generation and preparation to database design, SQL analysis, data modeling, DAX calculations, and executive dashboard development.
 
 ---
 
@@ -24,6 +24,7 @@ The dashboard was designed to answer key business questions such as:
 
 ## Tools Used
 
+- Microsoft Excel (Advanced Data Generation & Validation)
 - PostgreSQL
 - SQL
 - Microsoft Power BI
@@ -33,14 +34,43 @@ The dashboard was designed to answer key business questions such as:
 
 ---
 
+## Data Engineering
+
+Unlike most portfolio projects that rely on publicly available datasets, this project's dataset was created from scratch using advanced Microsoft Excel.
+
+### Data Generation Process
+
+The dataset was generated using:
+
+- Advanced Excel formulas
+- Dynamic lookup functions
+- Conditional logic
+- Controlled random data generation
+- Cross-table validation
+- Data integrity checks
+
+The generated tables include:
+
+- Customers
+- Transactions
+- Billing
+- Subscription Plans
+- Regions
+
+The completed dataset was then imported into PostgreSQL where it was normalized into a relational database for analysis.
+
+---
+
 ## Data Model
 
 The dashboard is built using a Star Schema consisting of:
 
 ### Fact Table
+
 - Transactions
 
 ### Dimension Tables
+
 - Customers
 - Calendar
 - Subscription Plans
@@ -51,9 +81,11 @@ The dashboard is built using a Star Schema consisting of:
 ## Dashboard Pages
 
 ### Executive Overview
+
 Provides a high-level summary of overall business performance through KPIs and revenue trends.
 
 **Key Metrics**
+
 - Total Revenue
 - Active Customers
 - Total Transactions
@@ -61,6 +93,7 @@ Provides a high-level summary of overall business performance through KPIs and r
 - ARPU
 
 **Visuals**
+
 - Monthly Revenue Trend
 - Revenue by Region
 - Revenue by Subscription Plan
@@ -68,9 +101,11 @@ Provides a high-level summary of overall business performance through KPIs and r
 ---
 
 ### Revenue Analysis
+
 Provides deeper insights into revenue performance across different business dimensions.
 
 **Visuals**
+
 - Quarterly Revenue
 - Yearly Revenue
 - Revenue by Payment Method
@@ -81,9 +116,11 @@ Provides deeper insights into revenue performance across different business dime
 ---
 
 ### Customer & Subscription Intelligence
+
 Focuses on customer acquisition, retention, subscription distribution, and churn analysis.
 
 **Visuals**
+
 - Customer Acquisition Trend
 - Customer Status Distribution
 - Customers by Region
@@ -112,11 +149,17 @@ Focuses on customer acquisition, retention, subscription distribution, and churn
 
 ## Skills Demonstrated
 
+- Data Engineering
+- Advanced Microsoft Excel
+- Data Generation & Validation
 - SQL Data Analysis
 - PostgreSQL Database Design
-- Data Cleaning & Validation
-- Star Schema Modeling
+- ETL Concepts
+- Data Cleaning & Transformation
+- Data Modeling
+- Star Schema Design
 - DAX Measures
+- Power Query
 - Power BI Dashboard Development
 - Executive KPI Reporting
 - Business Intelligence
@@ -126,4 +169,4 @@ Focuses on customer acquisition, retention, subscription distribution, and churn
 
 ## Project Outcome
 
-This project demonstrates an end-to-end Business Intelligence workflow, from designing a relational database and performing SQL analysis to developing an executive dashboard that enables data-driven business decisions.
+This project demonstrates an end-to-end Business Intelligence workflow by engineering a realistic telecommunications dataset from scratch, designing a normalized PostgreSQL database, performing SQL analysis, building a Star Schema data model, and developing an interactive executive Power BI dashboard that supports data-driven business decision-making.
