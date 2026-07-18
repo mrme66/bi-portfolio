@@ -98,7 +98,7 @@ Focuses on customer acquisition, retention, subscription distribution, and churn
 
 ### Executive Overview
 
-![Executive Overview](Imagess/01%20Executive%20Overview.png)
+![Executive Overview](Images/01%20Executive%20Overview.png)
 
 ### Revenue Analysis
 
